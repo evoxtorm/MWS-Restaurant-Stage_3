@@ -14,7 +14,7 @@ var gulpSequence = require('gulp-sequence');
 var htmlmin = require('gulp-htmlmin');
 var clean = require('gulp-clean');
 var minifyInline = require('gulp-minify-inline');
-=
+
 var gzip = require('gulp-gzip');
 var gzipStatic = require('connect-gzip-static');
 
